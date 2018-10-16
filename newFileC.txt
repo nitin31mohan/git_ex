@@ -1,0 +1,1 @@
+put this file in the newBranch1 branch and hence diverge it from the master branch.
