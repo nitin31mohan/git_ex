@@ -1,1 +1,2 @@
 pushing changes made to github
+making changes to fileA.txt, to pull it to the local repository later.
