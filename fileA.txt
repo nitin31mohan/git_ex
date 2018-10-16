@@ -1,3 +1,5 @@
 pushing changes made to github
 making changes to fileA.txt, to pull it to the local repository later.
 making more changes for commit. And adding commit message for added lines 2 and 3.
+
+making further changes for performing diff.
