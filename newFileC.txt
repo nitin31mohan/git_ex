@@ -1,1 +1,2 @@
 put this file in the newBranch1 branch and hence diverge it from the master branch.
+adding this line to the file in newBranch2 branch. (position of line of change is the same as that of newBranch1's file)
